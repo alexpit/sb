@@ -1,3 +1,2 @@
-# Express server example
-
-An express based server exposing registration and authentication routes
+# Sandbox
+A sandbox for the wickedest example of them all
