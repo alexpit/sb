@@ -1,0 +1,17 @@
+{
+  "name": "nserv",
+  "version": "1.0.0",
+  "description": "a node server",
+  "main": "app.js",
+  "scripts": {
+    "test": "run"
+  },
+  "author": "alexp",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "password-hash": "^1.2.2",
+    "persistent-cache": "^1.1.1"
+  }
+}
